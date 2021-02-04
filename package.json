@@ -1,0 +1,17 @@
+{
+  "name": "swagger2api",
+  "version": "1.0.0",
+  "description": "swagger自动生成基于axios的js或者ts文件，开发者可以直接进行调用",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swagger",
+    "swagger2js",
+    "swagger2ts",
+    "axios"
+  ],
+  "author": "jevin",
+  "license": "ISC"
+}
